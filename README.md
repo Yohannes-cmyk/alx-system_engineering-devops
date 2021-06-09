@@ -1,1 +1,1 @@
-name of project - shell, basics 
+Repo for Shell basics project on ALX 
